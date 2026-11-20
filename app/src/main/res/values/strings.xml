@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blocklyn</string>
+    <string name="accessibility_desc">Block distracting apps to keep you focused.</string>
+</resources>
